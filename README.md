@@ -12,18 +12,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🛡️ Smart Contract Engineer focused on security-first development  
-- 🔎 200+ hours of auditing experience  
-- 📚 Studied 500+ vulnerabilities from real-world exploits  
-- 🧪 Foundry enjoyer — invariants, fuzzing & PoCs  
-- ⚡ I build predictable, gas-efficient, and production-grade Solidity systems  
-- 🌐 Creator of **CodeKashi** (my developer identity)  
+-  Smart Contract Engineer focused on security-first development  
+-  200+ hours of auditing experience  
+-  Studied 500+ vulnerabilities from real-world exploits  
+-  Foundry enjoyer — invariants, fuzzing & PoCs  
+-  I build predictable, gas-efficient, and production-grade Solidity systems  
+-  Creator of **CodeKashi** (my developer identity)  
 
 ---
 
-## 🛠️ Skills & Expertise
+##  Skills & Expertise
 
 ### **Smart Contract Engineering**
 - Solidity (Advanced), Foundry, Hardhat  
@@ -45,53 +45,51 @@
 
 ---
 
-## 🧪 Security Audits (Public)
+##  Security Audits (Public)
 
-### 🔹 PuppyRaffle — RNG & Logic Audit  
+###  PuppyRaffle — RNG & Logic Audit  
 **Critical:** predictable randomness, reentrancy  
 **Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Puppy-Raffle-Audit-Report.pdf 
 
-### 🔹 ThunderLoan — Flash Loan Audit  
+###  ThunderLoan — Flash Loan Audit  
 **Critical:** repay mismatch, callback vector  
 **Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Thunder-Loan-Audit-Report.pdf
 
-### 🔹 PasswordStore — Access Control Audit  
+###  PasswordStore — Access Control Audit  
 **Critical:** unauthorized writes  
 **Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/PasswordStore-Audit-Report.pdf
 
-### 🔹 Tswap — DEX Logic Audit  
+###  Tswap — DEX Logic Audit  
 **High:** incorrect price math  
 **Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/tswap-audit.pdf 
 
-### 🔹 BossBridge — Cross-Chain Audit  
+###  BossBridge — Cross-Chain Audit  
 **High:** trust boundary assumptions  
 **Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Boss-Bridge-Audit-Report.pdf
 
-### 🔹 VaultGuardians — Vault Security Audit  
+###  VaultGuardians — Vault Security Audit  
 **High:** access control bypass  
 **Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/vault-guardians.pdf 
 
 ---
 
-## 📦 Featured Projects
+##  Featured Projects
 
-### 🔸 Upgradable Smart Contracts  
+###  Upgradable Smart Contracts  
 Full upgrade-safe architecture for scalable protocols.  
-**Repo:** https://github.com/Ramprasad4121/upgradble-contracts
 
-### 🔸 ERC-20 Token Framework  
+###  ERC-20 Token Framework  
 Clean and modular ERC-20 implementation.  
-**Repo:** https://github.com/Ramprasad4121/ERC-20-Token
 
-### 🔸 Account Abstraction Minimal Wallet  
+###  Account Abstraction Minimal Wallet  
 Experimental EIP-4337 based wallet.
 
-### 🔸 Merkle Airdrop Contract  
+###  Merkle Airdrop Contract  
 Gas-efficient claim system.
 
 ---
 
-## 📝 Security Write-ups
+##  Security Write-ups
 
 - Mutation Testing & Penpie Attack  
 - AquaDAO Governance Exploit  
@@ -102,20 +100,35 @@ Read here → https://medium.com/@0xramprasad
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramprasad4121&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasad4121&layout=compact&theme=tokyonight" height="150">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ramprasad4121&show_icons=true&theme=tokyonight" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasad4121&layout=compact&theme=tokyonight" 
+    height="150"
+  />
+</p>
+
+##  GitHub Streak Stats
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Ramprasad4121&theme=tokyonight&hide_border=true&fire=F7D774&ring=D4A017&currStreakLabel=D4A017"
+    height="180"
+  />
 </p>
 
 ---
 
-## 📬 Contact
+##  Contact
 
-- 📧 Email: **ramprasadgoud34@gmail.com**  
-- 🐦 X: https://x.com/0xramprasad  
-- 🔗 Portfolio: **https://codekashi.vercel.app** 
+-  Email: **ramprasadgoud34@gmail.com**  
+-  X: https://x.com/0xramprasad  
+-  Portfolio: **https://codekashi.vercel.app** 
 
 ---
 
