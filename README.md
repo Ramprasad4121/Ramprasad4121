@@ -1,97 +1,124 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm Ramprasad 👋</h1>
+<h1 align="center">Ramprasad</h1>
+<h3 align="center">Smart Contract Engineer · Solidity Developer · Blockchain Security Researcher</h3>
 
 <p align="center">
-  <b>Blockchain Security Researcher | Smart Contract Auditor | DeFi Protocol Developer</b>  
+  ✦ सत्यं शिवं सुंदरं ✦  
 </p>
 
 <p align="center">
-  <a href="mailto:ramprasadgoud34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/0xramprasad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ramprasad4121&color=blue&style=flat-square" alt="Profile Views"/>
+  I build and secure smart contracts with precision — blending deep engineering, clean architecture,  
+  and real vulnerability research across DeFi, governance, RNG, vaults, and cross-chain systems.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-I’m a **Blockchain Security Researcher** and **DeFi Developer** passionate about building and securing decentralized systems.  
-My work focuses on **smart contract auditing**, **DeFi protocol architecture**, and **formal verification** for ensuring on-chain reliability and safety.
-
-- 🔍 Conducted audits on multiple protocols → [Audit Reports Repository](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports)  
-- 🧠 Built and deployed various DeFi-based and ERC-standard smart contracts  
-- 💼 Currently open to roles as a **Blockchain Developer / Smart Contract Engineer / Security Researcher**  
-- 🌱 **Currently exploring:** Formal verification, low-level EVM assembly, and Rust-based smart contracts  
-
----
-
-### 🧩 Selected Projects
-
-| Project | Description | Tech Stack | Link |
-|----------|--------------|-------------|------|
-| **StableCoin Protocol** | Fully collateralized stablecoin with mint/burn mechanics | Solidity, Foundry, OpenZeppelin | [View Repo](https://github.com/Ramprasad4121/defi-stable-coin) |
-| **Upgradeable ERC20 Token** | Transparent upgradeable token with proxy pattern | Solidity, Hardhat, OpenZeppelin | [View Repo](https://github.com/Ramprasad4121/upgradble-contracts) |
-| **Security Audit Reports** | My audit findings, vulnerability writeups, and POCs | Solidity, Foundry, Slither, Mythril | [View Repo](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports) |
+- 🛡️ Smart Contract Engineer focused on security-first development  
+- 🔎 200+ hours of auditing experience  
+- 📚 Studied 500+ vulnerabilities from real-world exploits  
+- 🧪 Foundry enjoyer — invariants, fuzzing & PoCs  
+- ⚡ I build predictable, gas-efficient, and production-grade Solidity systems  
+- 🌐 Creator of **CodeKashi** (my developer identity)  
 
 ---
 
-### ⚙️ Toolbox
+## 🛠️ Skills & Expertise
 
-#### **Smart Contract / Blockchain**
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity,rust" />
-  <img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=foundry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-FFD700?style=flat&logo=ethereum&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ethers.js-253858?style=flat&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certora-0047AB?style=flat&logo=checkmarx&logoColor=white" />
-</p>
+### **Smart Contract Engineering**
+- Solidity (Advanced), Foundry, Hardhat  
+- ERC-20, ERC-721, ERC-4626, Proxy/Upgradeable  
+- Airdrops, Timelocks, DAOs, AA Wallets  
+- Chainlink VRF & CCIP  
 
-#### **Security / Testing**
-<p>
-  <img src="https://img.shields.io/badge/Slither-000000?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mythril-FF4B4B?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Echidna-007ACC?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Formal%20Verification-2E8B57?style=flat&logo=checkmarx&logoColor=white" />
-</p>
+### **Security & Auditing**
+- Reentrancy, Oracle Manipulation  
+- Flash-loan Attacks, Callback Abuse  
+- Math Invariants, State Machine Testing  
+- Gas Optimization  
+- Threat Modeling  
+- Audit Report Writing  
 
-#### **Full Stack / Web3**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-#### **DevOps / Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,aws,firebase" />
-</p>
-
+### **Tools I Use Daily**
+- Foundry • Hardhat • Slither • Echidna  
+- Tenderly • Mythril • VSCode • Git  
 
 ---
 
-### 📬 Connect With Me
+## 🧪 Security Audits (Public)
+
+### 🔹 PuppyRaffle — RNG & Logic Audit  
+**Critical:** predictable randomness, reentrancy  
+**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Puppy-Raffle-Audit-Report.pdf 
+
+### 🔹 ThunderLoan — Flash Loan Audit  
+**Critical:** repay mismatch, callback vector  
+**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Thunder-Loan-Audit-Report.pdf
+
+### 🔹 PasswordStore — Access Control Audit  
+**Critical:** unauthorized writes  
+**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/PasswordStore-Audit-Report.pdf
+
+### 🔹 Tswap — DEX Logic Audit  
+**High:** incorrect price math  
+**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/tswap-audit.pdf 
+
+### 🔹 BossBridge — Cross-Chain Audit  
+**High:** trust boundary assumptions  
+**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Boss-Bridge-Audit-Report.pdf
+
+### 🔹 VaultGuardians — Vault Security Audit  
+**High:** access control bypass  
+**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/vault-guardians.pdf 
+
+---
+
+## 📦 Featured Projects
+
+### 🔸 Upgradable Smart Contracts  
+Full upgrade-safe architecture for scalable protocols.  
+**Repo:** https://github.com/Ramprasad4121/upgradble-contracts
+
+### 🔸 ERC-20 Token Framework  
+Clean and modular ERC-20 implementation.  
+**Repo:** https://github.com/Ramprasad4121/ERC-20-Token
+
+### 🔸 Account Abstraction Minimal Wallet  
+Experimental EIP-4337 based wallet.
+
+### 🔸 Merkle Airdrop Contract  
+Gas-efficient claim system.
+
+---
+
+## 📝 Security Write-ups
+
+- Mutation Testing & Penpie Attack  
+- AquaDAO Governance Exploit  
+- Polter Finance Hack  
+- Ethereum vs Solana (L1 comparison)
+
+Read here → https://medium.com/@0xramprasad
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:ramprasadgoud34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/0xramprasad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <i>Always open for collaboration, audits, and new opportunities in Blockchain Security & Web3 Development.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramprasad4121&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasad4121&layout=compact&theme=tokyonight" height="150">
 </p>
 
 ---
 
-### 🧭 GitHub Insights
+## 📬 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramprasad4121&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasad4121&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
+- 📧 Email: **ramprasadgoud34@gmail.com**  
+- 🐦 X: https://x.com/0xramprasad  
+- 🔗 Portfolio: **https://codekashi.vercel.app** (🔥 Your masterpiece)
 
 ---
 
 <p align="center">
-  <i>“Security is not a feature — it’s a mindset.”</i>
+  ✦ Crafted with precision · Inspired by heritage · Driven by engineering ✦  
 </p>
