@@ -115,7 +115,7 @@ Read here → https://medium.com/@0xramprasad
 
 - 📧 Email: **ramprasadgoud34@gmail.com**  
 - 🐦 X: https://x.com/0xramprasad  
-- 🔗 Portfolio: **https://codekashi.vercel.app** (🔥 Your masterpiece)
+- 🔗 Portfolio: **https://codekashi.vercel.app** 
 
 ---
 
