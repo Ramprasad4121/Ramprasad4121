@@ -1,8 +1,21 @@
+
 <h1 align="center">Ramprasad</h1>
 <h3 align="center">Smart Contract Engineer · Solidity Developer · Blockchain Security Researcher</h3>
 
 <p align="center">
   ✦ सत्यं शिवं सुंदरं ✦  
+</p>
+
+<p align="center">
+  <a href="https://x.com/0xramprasad" target="_blank">
+    <img alt="X" src="[X_ICON_URL]" width="36" />
+  </a>
+  <a href="https://codekashi.dev" target="_blank">
+    <img alt="CodeKashi" src="[CODEKASHI_LOGO_URL]" width="120" />
+  </a>
+  <a href="mailto:ramprasadgoud34@gmail.com">
+    <img alt="Email" src="[MAIL_ICON_URL]" width="36" />
+  </a>
 </p>
 
 <p align="center">
@@ -128,7 +141,7 @@ Read here → https://medium.com/@0xramprasad
 
 -  Email: **ramprasadgoud34@gmail.com**  
 -  X: https://x.com/0xramprasad  
--  Portfolio: **https://codekashi.vercel.app** 
+-  Portfolio: **https://codekashi.dev** 
 
 ---
 
