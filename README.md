@@ -1,134 +1,83 @@
+<div align="center">
+  <h1>👨‍💻 RAMPRASAD</h1>
+  <h3>Smart Contract Engineer · Security Researcher · EVM Specialist</h3>
+  
+  <p>
+    <b>Building secure, gas-optimized infrastructure for the multi-chain future.</b>
+  </p>
 
-<h1 align="center">Ramprasad</h1>
-<h3 align="center">Smart Contract Engineer · Solidity Developer · Blockchain Security Researcher</h3>
-
-<p align="center">
-  I build and secure smart contracts with precision — blending deep engineering, clean architecture,  
-  and real vulnerability research across DeFi, governance, RNG, vaults, and cross-chain systems.
-</p>
-
----
-
-##  About Me
-
--  Smart Contract Engineer focused on security-first development  
--  200+ hours of auditing experience  
--  Studied 500+ vulnerabilities from real-world exploits  
--  Foundry enjoyer — invariants, fuzzing & PoCs  
--  I build predictable, gas-efficient, and production-grade Solidity systems  
--  Creator of **CodeKashi** (my developer identity)  
-
----
-
-##  Skills & Expertise
-
-### **Smart Contract Engineering**
-- Solidity (Advanced), Foundry, Hardhat  
-- ERC-20, ERC-721, ERC-4626, Proxy/Upgradeable  
-- Airdrops, Timelocks, DAOs, AA Wallets  
-- Chainlink VRF & CCIP  
-
-### **Security & Auditing**
-- Reentrancy, Oracle Manipulation  
-- Flash-loan Attacks, Callback Abuse  
-- Math Invariants, State Machine Testing  
-- Gas Optimization  
-- Threat Modeling  
-- Audit Report Writing  
-
-### **Tools I Use Daily**
-- Foundry • Hardhat • Slither • Echidna  
-- Tenderly • Mythril • VSCode • Git  
+  <a href="https://twitter.com/0xramprasad">
+    <img src="https://img.shields.io/twitter/follow/0xramprasad?style=social" alt="Twitter Follow" />
+  </a>
+  <a href="https://www.codekashi.dev">
+    <img src="https://img.shields.io/badge/Portfolio-CodeKashi.dev-ff69b4?style=flat-square&logo=framer" alt="Portfolio" />
+  </a>
+  <a href="mailto:ramprasadgoud34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-##  Security Audits (Public)
+### ⚡ Engineering Philosophy
+> "I don't just write code; I write invariants. My work focuses on the intersection of **low-level EVM optimization (Yul/Assembly)** and **high-level protocol security**."
 
-###  PuppyRaffle — RNG & Logic Audit  
-**Critical:** predictable randomness, reentrancy  
-**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Puppy-Raffle-Audit-Report.pdf 
-
-###  ThunderLoan — Flash Loan Audit  
-**Critical:** repay mismatch, callback vector  
-**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Thunder-Loan-Audit-Report.pdf
-
-###  PasswordStore — Access Control Audit  
-**Critical:** unauthorized writes  
-**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/PasswordStore-Audit-Report.pdf
-
-###  Tswap — DEX Logic Audit  
-**High:** incorrect price math  
-**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/tswap-audit.pdf 
-
-###  BossBridge — Cross-Chain Audit  
-**High:** trust boundary assumptions  
-**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Boss-Bridge-Audit-Report.pdf
-
-###  VaultGuardians — Vault Security Audit  
-**High:** access control bypass  
-**Repo:** https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/vault-guardians.pdf 
+- 🛡️ **Security First:** 200+ hours of auditing, studied 500+ historic exploits.
+- ⛽ **Gas Obsessed:** Routinely optimize loops and storage using Inline Assembly.
+- 🌉 **Interoperable:** Deep experience with **Chainlink CCIP** and Cross-Chain messaging.
+- 🏗️ **Architect:** Building modular, upgradeable systems (Diamond/Transparent Proxies).
 
 ---
 
-##  Featured Projects
+### 🛠 Technical Arsenal
 
-###  Upgradable Smart Contracts  
-Full upgrade-safe architecture for scalable protocols.  
-
-###  ERC-20 Token Framework  
-Clean and modular ERC-20 implementation.  
-
-###  Account Abstraction Minimal Wallet  
-Experimental EIP-4337 based wallet.
-
-###  Merkle Airdrop Contract  
-Gas-efficient claim system.
+| **Core Stack** | **Security & Testing** | **Infrastructure** |
+|:---:|:---:|:---:|
+| ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Foundry](https://img.shields.io/badge/Foundry-%234c4c4c.svg?style=for-the-badge&logo=ethereum&logoColor=white) <br> ![Slither](https://img.shields.io/badge/Slither-Security-green?style=for-the-badge) | ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Yul / Assembly** | **Echidna / Fuzzing** | **Hardhat** |
 
 ---
 
-##  Security Write-ups
+### 🏆 Featured Engineering (Proof of Work)
 
-- Mutation Testing & Penpie Attack  
-- AquaDAO Governance Exploit  
-- Polter Finance Hack  
-- Ethereum vs Solana (L1 comparison)
-
-Read here → https://medium.com/@0xramprasad
-
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ramprasad4121&show_icons=true&theme=tokyonight" 
-    height="150"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasad4121&layout=compact&theme=tokyonight" 
-    height="150"
-  />
-</p>
-
-##  GitHub Streak Stats
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Ramprasad4121&theme=tokyonight&hide_border=true&fire=F7D774&ring=D4A017&currStreakLabel=D4A017"
-    height="180"
-  />
-</p>
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[CCIP Rebase Token](https://github.com/Ramprasad4121/YOUR_CCIP_REPO_HERE)** | `Solidity` `CCIP` `Foundry` | **Cross-Chain State Sync.** An algorithmic rebase token that synchronizes supply across multiple EVM chains using Chainlink CCIP. Handles complex bridging latency and state conflicts. |
+| **[Gas Optimized Airdrop](https://github.com/Ramprasad4121/YOUR_AIRDROP_REPO_HERE)** | `Yul` `Assembly` `Merkle` | **40% Gas Savings.** A Merkle Distributor rewriting critical verification loops in Inline Assembly. Uses bit-packing to minimize storage slots. |
+| **[Account Abstraction](https://github.com/Ramprasad4121/account-abstraction)** | `ERC-4337` `TypeScript` | **Paymaster & Bundler.** An implementation of EIP-4337 components allowing for sponsored transactions and social login recovery logic. |
 
 ---
 
-##  Contact
+### 🕵️‍♂️ Security Audit Portfolio
 
--  Email: **ramprasadgoud34@gmail.com**  
--  X: https://x.com/0xramprasad  
--  Portfolio: **https://codekashi.dev** 
+I have conducted manual reviews for protocols ranging from DEXs to Governance systems.
+
+| Protocol | Type | Critical Findings | Report |
+| :--- | :--- | :--- | :---: |
+| **Tswap** | DEX / AMM | 🚨 **Math Rounding Error** (Insolvency Risk) | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/tswap-audit.pdf) |
+| **ThunderLoan** | Flash Loan | 🚨 **Repay Mismatch** & Oracle Manipulation | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Thunder-Loan-Audit-Report.pdf) |
+| **PuppyRaffle** | RNG / Game | 🚨 **Predictable Randomness** & Reentrancy | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Puppy-Raffle-Audit-Report.pdf) |
+| **BossBridge** | Bridge | 🟠 **Trust Boundary Assumption** | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Boss-Bridge-Audit-Report.pdf) |
+| **PasswordStore** | Access Control | 🚨 **Unauthorized Storage Write** | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/PasswordStore-Audit-Report.pdf) |
 
 ---
 
-<p align="center">
-  ✦ Crafted with precision · Inspired by heritage · Driven by engineering ✦  
-</p>
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramprasad4121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasad4121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ramprasad4121&theme=tokyonight&hide_border=true&fire=F7D774&ring=D4A017&currStreakLabel=D4A017&background=0d1117" height="160" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>Inspired by Indian Heritage · Engineered for the Decentralized Future</i></p>
+  <h3><a href="https://www.codekashi.dev">🌐 Visit CodeKashi.dev</a></h3>
+</div>
