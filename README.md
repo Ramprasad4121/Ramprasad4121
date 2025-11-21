@@ -42,8 +42,8 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[CCIP Rebase Token](https://github.com/Ramprasad4121/YOUR_CCIP_REPO_HERE)** | `Solidity` `CCIP` `Foundry` | **Cross-Chain State Sync.** An algorithmic rebase token that synchronizes supply across multiple EVM chains using Chainlink CCIP. Handles complex bridging latency and state conflicts. |
-| **[Gas Optimized Airdrop](https://github.com/Ramprasad4121/YOUR_AIRDROP_REPO_HERE)** | `Yul` `Assembly` `Merkle` | **40% Gas Savings.** A Merkle Distributor rewriting critical verification loops in Inline Assembly. Uses bit-packing to minimize storage slots. |
+| **[CCIP Rebase Token](https://github.com/Ramprasad4121/ccip-rebase-token)** | `Solidity` `CCIP` `Foundry` | **Cross-Chain State Sync.** An algorithmic rebase token that synchronizes supply across multiple EVM chains using Chainlink CCIP. Handles complex bridging latency and state conflicts. |
+| **[Gas Optimized Airdrop](https://github.com/Ramprasad4121/merkle-airdrop)** | `Yul` `Assembly` `Merkle` | **40% Gas Savings.** A Merkle Distributor rewriting critical verification loops in Inline Assembly. Uses bit-packing to minimize storage slots. |
 | **[Account Abstraction](https://github.com/Ramprasad4121/account-abstraction)** | `ERC-4337` `TypeScript` | **Paymaster & Bundler.** An implementation of EIP-4337 components allowing for sponsored transactions and social login recovery logic. |
 
 ---
