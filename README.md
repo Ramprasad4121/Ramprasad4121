@@ -60,20 +60,6 @@ I have conducted manual reviews for protocols ranging from DEXs to Governance sy
 | **BossBridge** | Bridge | 🟠 **Trust Boundary Assumption** | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Boss-Bridge-Audit-Report.pdf) |
 | **PasswordStore** | Access Control | 🚨 **Unauthorized Storage Write** | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/PasswordStore-Audit-Report.pdf) |
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramprasad4121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasad4121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ramprasad4121&theme=tokyonight&hide_border=true&fire=F7D774&ring=D4A017&currStreakLabel=D4A017&background=0d1117" height="160" alt="streak graph" />
-</div>
 
 ---
 
