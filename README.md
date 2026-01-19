@@ -43,7 +43,7 @@
 | 🏆 **Achievement** | **Details** |
 | :--- | :--- |
 | **🥈 2nd Place @ DeNova** | Built **[Anchor Sentinel](https://github.com/Ramprasad4121/anchor-sentinel)**, a static analysis engine that auto-generates exploits for Solana programs. |
-| **🎓 RektOff Graduate** | Completed the **[RektOff x Solana Security Bootcamp](https://x.com/0xramprasad/status/2008978560153997579?s=20)**. Mastered SVM internals & exploit vectors. |
+| **🎓 RektOff Graduate** | Completed the **[RektOff x Solana Security Bootcamp](https://x.com/0xramprasad/status/2005493181375459625?s=20)**. Mastered SVM internals & exploit vectors. |
 | **🛠️ Tooling Architect** | Shipped the first open-source **"Auto-POC Engine"** for Anchor smart contracts. |
 
 ---
