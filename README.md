@@ -1,10 +1,19 @@
 <div align="center">
   <h1>👨‍💻 RAMPRASAD</h1>
-  <h3>Smart Contract Engineer · Security Researcher · EVM Specialist</h3>
+  <h3>Smart Contract Engineer · Security Researcher · Tool Builder</h3>
   
   <p>
-    <b>Building secure, gas-optimized infrastructure for the multi-chain future.</b>
+    <b>Building the next generation of automated security infrastructure for Solana & EVM.</b>
   </p>
+
+  <a href="https://github.com/Ramprasad4121/anchor-sentinel">
+    <img src="https://img.shields.io/badge/🏆_Winner-DeNova_Hackathon_2026-gold?style=for-the-badge" alt="Hackathon Winner" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🎓_Graduate-RektOff_x_Solana_Bootcamp-blueviolet?style=for-the-badge" alt="RektOff Graduate" />
+  </a>
+
+  <br><br>
 
   <a href="https://twitter.com/0xramprasad">
     <img src="https://img.shields.io/twitter/follow/0xramprasad?style=social" alt="Twitter Follow" />
@@ -19,32 +28,42 @@
 
 ---
 
-### ⚡ Engineering Philosophy
-> "I don't just write code; I write invariants. My work focuses on the intersection of **low-level EVM optimization (Yul/Assembly)** and **high-level protocol security**."
+### ⚡ Engineering Focus
+> "I don't just find bugs; I build the tools that find them. My work bridges the gap between **manual auditing** and **automated static analysis**."
 
-- 🛡️ **Security First:** 200+ hours of auditing, studied 500+ historic exploits.
-- ⛽ **Gas Obsessed:** Routinely optimize loops and storage using Inline Assembly.
-- 🌉 **Interoperable:** Deep experience with **Chainlink CCIP** and Cross-Chain messaging.
-- 🏗️ **Architect:** Building modular, upgradeable systems (Diamond/Transparent Proxies).
+- 🦀 **Rust & SVM:** Architecting high-performance security tooling (AST Parsing, Auto-Exploit Gen).
+- 🛡️ **Auditing:** 200+ hours of manual review with critical findings in DeFi & Bridges.
+- ⛽ **Optimization:** Specialist in EVM Assembly (Yul) and Solana Compute Unit optimization.
+- 🏗️ **Infrastructure:** Building secure cross-chain messaging layers using Chainlink CCIP & Wormhole.
+
+---
+
+### 🚨 Recent Highlights
+
+| 🏆 **Achievement** | **Details** |
+| :--- | :--- |
+| **🥈 2nd Place @ DeNova** | Built **[Anchor Sentinel](https://github.com/Ramprasad4121/anchor-sentinel)**, a static analysis engine that auto-generates exploits for Solana programs. |
+| **🎓 RektOff Graduate** | Completed the **[RektOff x Solana Security Bootcamp](https://x.com/0xramprasad/status/2008978560153997579?s=20)**. Mastered SVM internals & exploit vectors. |
+| **🛠️ Tooling Architect** | Shipped the first open-source **"Auto-POC Engine"** for Anchor smart contracts. |
 
 ---
 
 ### 🛠 Technical Arsenal
 
-| **Core Stack** | **Security & Testing** | **Infrastructure** |
+| **Languages** | **Security & Fuzzing** | **Frameworks** |
 |:---:|:---:|:---:|
-| ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Foundry](https://img.shields.io/badge/Foundry-%234c4c4c.svg?style=for-the-badge&logo=ethereum&logoColor=white) <br> ![Slither](https://img.shields.io/badge/Slither-Security-green?style=for-the-badge) | ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| **Yul / Assembly** | **Echidna / Fuzzing** | **Hardhat** |
+| ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white) <br> ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) | ![Foundry](https://img.shields.io/badge/Foundry-%234c4c4c.svg?style=for-the-badge&logo=ethereum&logoColor=white) <br> ![Slither](https://img.shields.io/badge/Slither-Analysis-green?style=for-the-badge) | ![Anchor](https://img.shields.io/badge/Anchor-Solana-blueviolet?style=for-the-badge) <br> ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white) |
+| **Yul / Assembly** | **Echidna / Invariants** | **Hardhat / Waffle** |
 
 ---
 
-### 🏆 Featured Engineering (Proof of Work)
+### 🚀 Featured Projects (Proof of Work)
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[CCIP Rebase Token](https://github.com/Ramprasad4121/ccip-rebase-token)** | `Solidity` `CCIP` `Foundry` | **Cross-Chain State Sync.** An algorithmic rebase token that synchronizes supply across multiple EVM chains using Chainlink CCIP. Handles complex bridging latency and state conflicts. |
+| **[Anchor Sentinel](https://github.com/Ramprasad4121/anchor-sentinel)** | `Rust` `AST Parsing` `TypeScript` | **🥈 Hackathon Winner.** A static analysis framework for Solana that detects vulnerabilities and **automatically generates executable POC exploits** to verify them. |
+| **[CCIP Rebase Token](https://github.com/Ramprasad4121/ccip-rebase-token)** | `Solidity` `CCIP` `Foundry` | **Cross-Chain State Sync.** An algorithmic rebase token that synchronizes supply across multiple EVM chains using Chainlink CCIP. |
 | **[Gas Optimized Airdrop](https://github.com/Ramprasad4121/merkle-airdrop)** | `Yul` `Assembly` `Merkle` | **40% Gas Savings.** A Merkle Distributor rewriting critical verification loops in Inline Assembly. Uses bit-packing to minimize storage slots. |
-| **[Account Abstraction](https://github.com/Ramprasad4121/account-abstraction)** | `ERC-4337` `TypeScript` | **Paymaster & Bundler.** An implementation of EIP-4337 components allowing for sponsored transactions and social login recovery logic. |
 
 ---
 
@@ -56,14 +75,11 @@ I have conducted manual reviews for protocols ranging from DEXs to Governance sy
 | :--- | :--- | :--- | :---: |
 | **Tswap** | DEX / AMM | 🚨 **Math Rounding Error** (Insolvency Risk) | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/tswap-audit.pdf) |
 | **ThunderLoan** | Flash Loan | 🚨 **Repay Mismatch** & Oracle Manipulation | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Thunder-Loan-Audit-Report.pdf) |
-| **PuppyRaffle** | RNG / Game | 🚨 **Predictable Randomness** & Reentrancy | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Puppy-Raffle-Audit-Report.pdf) |
 | **BossBridge** | Bridge | 🟠 **Trust Boundary Assumption** | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/Boss-Bridge-Audit-Report.pdf) |
-| **PasswordStore** | Access Control | 🚨 **Unauthorized Storage Write** | [📄 Read](https://github.com/Ramprasad4121/Smart-Contract-Audit-Reports/blob/main/PasswordStore-Audit-Report.pdf) |
-
 
 ---
 
 <div align="center">
-  <p><i>Inspired by Indian Heritage · Engineered for the Decentralized Future</i></p>
+  <p><i>Engineered for the Decentralized Future</i></p>
   <h3><a href="https://www.codekashi.dev">🌐 Visit CodeKashi.dev</a></h3>
 </div>
