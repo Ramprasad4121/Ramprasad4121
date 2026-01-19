@@ -9,7 +9,7 @@
   <a href="https://github.com/Ramprasad4121/anchor-sentinel">
     <img src="https://img.shields.io/badge/🏆_Winner-DeNova_Hackathon_2026-gold?style=for-the-badge" alt="Hackathon Winner" />
   </a>
-  <a href="#">
+  <a href="https://x.com/0xramprasad/status/2005493181375459625?s=20">
     <img src="https://img.shields.io/badge/🎓_Graduate-RektOff_x_Solana_Bootcamp-blueviolet?style=for-the-badge" alt="RektOff Graduate" />
   </a>
 
