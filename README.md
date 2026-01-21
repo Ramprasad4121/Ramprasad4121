@@ -53,7 +53,7 @@
 | **Languages** | **Security & Fuzzing** | **Frameworks** |
 |:---:|:---:|:---:|
 | ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white) <br> ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) | ![Foundry](https://img.shields.io/badge/Foundry-%234c4c4c.svg?style=for-the-badge&logo=ethereum&logoColor=white) <br> ![Slither](https://img.shields.io/badge/Slither-Analysis-green?style=for-the-badge) | ![Anchor](https://img.shields.io/badge/Anchor-Solana-blueviolet?style=for-the-badge) <br> ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white) |
-| **Yul / Assembly** | **Echidna / Invariants** | **Hardhat / Waffle** |
+| **Yul / Assembly** | **Echidna / Invariants** | **Hardhat** |
 
 ---
 
